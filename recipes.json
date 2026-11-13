@@ -1,0 +1,1900 @@
+[
+  {
+    "id": 1,
+    "title": "Virgin Mojito",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "8",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "25ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "120ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Gently muddle mint with lime juice and syrup in a tall glass.",
+      "Add ice and top with soda water.",
+      "Stir gently and garnish with mint."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Virgin Piña Colada",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "pineapple juice"
+      },
+      {
+        "qty": "60ml",
+        "item": "coconut milk"
+      },
+      {
+        "qty": "30ml",
+        "item": "coconut cream"
+      },
+      {
+        "qty": "1 handful",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Blend pineapple juice coconut milk coconut cream and ice until smooth.",
+      "Pour into a chilled glass.",
+      "Garnish with pineapple."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shirley Temple",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "120ml",
+        "item": "ginger ale"
+      },
+      {
+        "qty": "15ml",
+        "item": "grenadine"
+      },
+      {
+        "qty": "10ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill a tall glass with ice.",
+      "Add ginger ale and lime juice.",
+      "Slowly pour grenadine down the side and garnish with a cherry."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Virgin Mary",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150ml",
+        "item": "tomato juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "2 dashes",
+        "item": "Worcestershire sauce"
+      },
+      {
+        "qty": "1 dash",
+        "item": "hot sauce"
+      },
+      {
+        "qty": "",
+        "item": "celery stick"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Stir tomato juice lemon juice sauces and ice in a mixing glass.",
+      "Strain into an ice-filled tall glass.",
+      "Garnish with celery and season to taste."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nojito Strawberry",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "4",
+        "item": "strawberries"
+      },
+      {
+        "qty": "6",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Muddle strawberries mint lime and syrup lightly.",
+      "Add ice and soda water.",
+      "Stir and garnish with a strawberry."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Cucumber Cooler",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "5",
+        "item": "cucumber slices"
+      },
+      {
+        "qty": "20ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "elderflower cordial"
+      },
+      {
+        "qty": "120ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Muddle cucumber with lemon juice and cordial.",
+      "Fill with ice and soda water.",
+      "Stir and garnish with cucumber."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Watermelon Refresher",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "150g",
+        "item": "seedless watermelon"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "10ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "80ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Blend watermelon with lime juice and syrup.",
+      "Strain if desired into an ice-filled glass.",
+      "Top with sparkling water."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pineapple Ginger Fizz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "pineapple juice"
+      },
+      {
+        "qty": "80ml",
+        "item": "ginger beer"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill glass with ice.",
+      "Add pineapple and lime juices.",
+      "Top with ginger beer and stir."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Raspberry Lemon Spritz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "6",
+        "item": "raspberries"
+      },
+      {
+        "qty": "20ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "120ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Muddle raspberries with lemon juice and syrup.",
+      "Add ice and sparkling water.",
+      "Stir gently."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Blueberry Mint Smash",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "10",
+        "item": "blueberries"
+      },
+      {
+        "qty": "6",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "20ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Muddle blueberries mint lemon and syrup.",
+      "Add ice and top with soda water.",
+      "Stir and garnish."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Orange Sunrise",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "130ml",
+        "item": "orange juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "grenadine"
+      },
+      {
+        "qty": "30ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill a tall glass with ice and pour orange juice.",
+      "Add soda water.",
+      "Slowly pour grenadine to create a sunrise effect."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Mango Lassi Cooler",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100g",
+        "item": "mango pulp"
+      },
+      {
+        "qty": "100g",
+        "item": "natural yoghurt"
+      },
+      {
+        "qty": "60ml",
+        "item": "cold water"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Blend mango yoghurt water honey and ice until smooth.",
+      "Pour into glass and serve cold."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Peach Iced Tea",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "120ml",
+        "item": "chilled black tea"
+      },
+      {
+        "qty": "60ml",
+        "item": "peach nectar"
+      },
+      {
+        "qty": "10ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Brew black tea and chill completely.",
+      "Pour tea peach nectar and lemon over ice.",
+      "Stir and garnish with peach."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Apple Ginger Sparkler",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "cloudy apple juice"
+      },
+      {
+        "qty": "80ml",
+        "item": "ginger ale"
+      },
+      {
+        "qty": "15ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill glass with ice.",
+      "Pour in apple and lemon juices.",
+      "Top with ginger ale and stir."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Cranberry Lime Fizz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "cranberry juice"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Combine cranberry and lime juice over ice.",
+      "Top with soda water.",
+      "Garnish with lime."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Passion Fruit Cooler",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "passion fruit"
+      },
+      {
+        "qty": "100ml",
+        "item": "orange juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "80ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Scoop passion fruit pulp into a glass.",
+      "Add orange and lime juices and ice.",
+      "Top with sparkling water and stir."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Elderflower Lemonade",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "25ml",
+        "item": "elderflower cordial"
+      },
+      {
+        "qty": "20ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "150ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Add elderflower cordial and lemon juice to ice-filled glass.",
+      "Top with sparkling water.",
+      "Stir and garnish with lemon."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Grapefruit Rosemary Spritz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "pink grapefruit juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "rosemary syrup"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill glass with ice.",
+      "Add grapefruit juice and rosemary syrup.",
+      "Top with soda and stir."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Cherry Vanilla Soda",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60ml",
+        "item": "cherry juice"
+      },
+      {
+        "qty": "5ml",
+        "item": "vanilla syrup"
+      },
+      {
+        "qty": "140ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Add cherry juice and vanilla syrup to an ice-filled glass.",
+      "Top with soda water.",
+      "Stir and garnish with cherry."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Lemon Basil Smash",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "5",
+        "item": "basil leaves"
+      },
+      {
+        "qty": "25ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "120ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Gently muddle basil lemon and syrup.",
+      "Add ice and soda water.",
+      "Stir gently."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Tropical Punch",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60ml",
+        "item": "pineapple juice"
+      },
+      {
+        "qty": "60ml",
+        "item": "orange juice"
+      },
+      {
+        "qty": "40ml",
+        "item": "mango juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake juices with ice.",
+      "Strain into a tall glass over fresh ice.",
+      "Garnish with orange."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Strawberry Milkshake",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "120g",
+        "item": "strawberries"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1 scoop",
+        "item": "vanilla ice cream"
+      }
+    ],
+    "steps": [
+      "Blend strawberries milk and ice cream until smooth.",
+      "Pour into a chilled glass.",
+      "Serve immediately."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Chocolate Banana Shake",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "banana"
+      },
+      {
+        "qty": "150ml",
+        "item": "milk"
+      },
+      {
+        "qty": "1 tbsp",
+        "item": "cocoa powder"
+      },
+      {
+        "qty": "1 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Blend banana milk cocoa honey and ice until smooth.",
+      "Pour into glass and serve."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Kiwi Lime Fizz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "1",
+        "item": "ripe kiwi"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "120ml",
+        "item": "sparkling water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Peel and mash kiwi with lime juice and syrup.",
+      "Strain if preferred and pour over ice.",
+      "Top with sparkling water."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Pomegranate Spritz",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "pomegranate juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill glass with ice.",
+      "Add pomegranate and lemon juices.",
+      "Top with soda and stir."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Pear and Ginger Cooler",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "pear juice"
+      },
+      {
+        "qty": "80ml",
+        "item": "ginger beer"
+      },
+      {
+        "qty": "15ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Combine pear and lemon juices in glass with ice.",
+      "Top with ginger beer.",
+      "Stir gently."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Mint Lime Lemonade",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "25ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "20ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "6",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "120ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Muddle mint with citrus juices and syrup.",
+      "Add ice and soda water.",
+      "Stir gently."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Virgin Paloma",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "100ml",
+        "item": "grapefruit juice"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "100ml",
+        "item": "grapefruit soda"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Add grapefruit and lime juices to an ice-filled glass.",
+      "Top with grapefruit soda.",
+      "Garnish with grapefruit wedge."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Spiced Apple Warmer",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 5,
+    "ingredients": [
+      {
+        "qty": "200ml",
+        "item": "cloudy apple juice"
+      },
+      {
+        "qty": "1",
+        "item": "cinnamon stick"
+      },
+      {
+        "qty": "2",
+        "item": "cloves"
+      },
+      {
+        "qty": "1",
+        "item": "orange slice"
+      }
+    ],
+    "steps": [
+      "Heat apple juice with cinnamon cloves and orange gently for 5 minutes without boiling.",
+      "Strain out whole spices.",
+      "Serve warm."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Hot Honey Lemon",
+    "category": "Mocktails",
+    "servings": 1,
+    "prep": 7,
+    "cook": 5,
+    "ingredients": [
+      {
+        "qty": "200ml",
+        "item": "hot water"
+      },
+      {
+        "qty": "25ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "2 tsp",
+        "item": "honey"
+      },
+      {
+        "qty": "1 slice",
+        "item": "fresh ginger"
+      }
+    ],
+    "steps": [
+      "Steep ginger in hot water for 5 minutes.",
+      "Remove ginger and stir in lemon juice and honey.",
+      "Serve warm not boiling."
+    ],
+    "notes": "Alcohol-free recipe; check packaged mixers and flavourings if strict zero-alcohol is required. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "mocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Classic Mojito",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "white rum"
+      },
+      {
+        "qty": "25ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "8",
+        "item": "mint leaves"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Gently muddle mint with lime juice and syrup.",
+      "Add rum and ice.",
+      "Top with soda water and stir."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Margarita",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "tequila"
+      },
+      {
+        "qty": "25ml",
+        "item": "triple sec"
+      },
+      {
+        "qty": "25ml",
+        "item": "fresh lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      },
+      {
+        "qty": "",
+        "item": "optional salt rim"
+      }
+    ],
+    "steps": [
+      "Shake tequila triple sec and lime juice with ice.",
+      "Strain into chilled glass with optional salt rim.",
+      "Garnish with lime."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Classic Daiquiri",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60ml",
+        "item": "white rum"
+      },
+      {
+        "qty": "25ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake rum lime and syrup hard with ice.",
+      "Fine strain into chilled coupe.",
+      "Garnish with lime."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Piña Colada",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "white rum"
+      },
+      {
+        "qty": "90ml",
+        "item": "pineapple juice"
+      },
+      {
+        "qty": "30ml",
+        "item": "coconut cream"
+      },
+      {
+        "qty": "1 handful",
+        "item": "crushed ice"
+      }
+    ],
+    "steps": [
+      "Blend rum pineapple juice coconut cream and ice until smooth.",
+      "Pour into chilled glass.",
+      "Garnish with pineapple."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Cosmopolitan",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "40ml",
+        "item": "vodka"
+      },
+      {
+        "qty": "20ml",
+        "item": "triple sec"
+      },
+      {
+        "qty": "30ml",
+        "item": "cranberry juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake all liquids with ice.",
+      "Fine strain into a chilled cocktail glass.",
+      "Garnish with orange zest."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Espresso Martini",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "40ml",
+        "item": "vodka"
+      },
+      {
+        "qty": "25ml",
+        "item": "coffee liqueur"
+      },
+      {
+        "qty": "30ml",
+        "item": "freshly brewed cooled espresso"
+      },
+      {
+        "qty": "10ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Cool espresso before mixing.",
+      "Shake all ingredients vigorously with ice until frothy.",
+      "Fine strain into chilled coupe."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Whisky Sour",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "whisky"
+      },
+      {
+        "qty": "25ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "20ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake whisky lemon and syrup with ice.",
+      "Strain over fresh ice into a rocks glass.",
+      "Garnish with lemon."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Old Fashioned",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60ml",
+        "item": "bourbon"
+      },
+      {
+        "qty": "10ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "2 dashes",
+        "item": "aromatic bitters"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      },
+      {
+        "qty": "",
+        "item": "orange peel"
+      }
+    ],
+    "steps": [
+      "Stir bourbon syrup and bitters with ice until chilled.",
+      "Strain over large ice cube.",
+      "Express orange peel over glass and garnish."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Negroni",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "30ml",
+        "item": "gin"
+      },
+      {
+        "qty": "30ml",
+        "item": "sweet red vermouth"
+      },
+      {
+        "qty": "30ml",
+        "item": "Campari"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      },
+      {
+        "qty": "",
+        "item": "orange slice"
+      }
+    ],
+    "steps": [
+      "Stir gin vermouth and Campari with ice.",
+      "Strain over fresh ice in rocks glass.",
+      "Garnish with orange."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Gin and Tonic",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "gin"
+      },
+      {
+        "qty": "150ml",
+        "item": "tonic water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      },
+      {
+        "qty": "",
+        "item": "lime wedge"
+      }
+    ],
+    "steps": [
+      "Fill tall glass with plenty of ice.",
+      "Pour in gin and top with tonic.",
+      "Stir once and garnish with lime."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Aperol Spritz",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "60ml",
+        "item": "prosecco"
+      },
+      {
+        "qty": "40ml",
+        "item": "Aperol"
+      },
+      {
+        "qty": "20ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      },
+      {
+        "qty": "",
+        "item": "orange slice"
+      }
+    ],
+    "steps": [
+      "Fill wine glass with ice.",
+      "Add prosecco Aperol and soda water.",
+      "Stir gently and garnish with orange."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Moscow Mule",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "vodka"
+      },
+      {
+        "qty": "120ml",
+        "item": "ginger beer"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill mug or tall glass with ice.",
+      "Add vodka and lime juice.",
+      "Top with ginger beer and stir."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Dark and Stormy",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "dark rum"
+      },
+      {
+        "qty": "120ml",
+        "item": "ginger beer"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill tall glass with ice and ginger beer.",
+      "Add lime juice.",
+      "Float dark rum on top and stir before drinking."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Tom Collins",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "gin"
+      },
+      {
+        "qty": "25ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "100ml",
+        "item": "soda water"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake gin lemon and syrup with ice.",
+      "Strain into tall glass over fresh ice.",
+      "Top with soda and stir."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "French 75",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "30ml",
+        "item": "gin"
+      },
+      {
+        "qty": "15ml",
+        "item": "lemon juice"
+      },
+      {
+        "qty": "10ml",
+        "item": "sugar syrup"
+      },
+      {
+        "qty": "90ml",
+        "item": "sparkling wine"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake gin lemon and syrup with ice.",
+      "Strain into flute.",
+      "Top slowly with chilled sparkling wine."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Paloma",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "tequila"
+      },
+      {
+        "qty": "20ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "120ml",
+        "item": "grapefruit soda"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill tall glass with ice.",
+      "Add tequila and lime juice.",
+      "Top with grapefruit soda and stir."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Sea Breeze",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "vodka"
+      },
+      {
+        "qty": "90ml",
+        "item": "cranberry juice"
+      },
+      {
+        "qty": "60ml",
+        "item": "grapefruit juice"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Fill tall glass with ice.",
+      "Pour in vodka and both juices.",
+      "Stir and garnish with grapefruit."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Bellini",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "50ml",
+        "item": "peach purée"
+      },
+      {
+        "qty": "100ml",
+        "item": "prosecco"
+      }
+    ],
+    "steps": [
+      "Chill peach purée and prosecco.",
+      "Add purée to flute.",
+      "Slowly top with prosecco and stir gently."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Mimosa",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "75ml",
+        "item": "chilled orange juice"
+      },
+      {
+        "qty": "75ml",
+        "item": "chilled sparkling wine"
+      }
+    ],
+    "steps": [
+      "Pour chilled orange juice into flute.",
+      "Top slowly with sparkling wine.",
+      "Serve immediately."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Rum Punch",
+    "category": "Cocktails",
+    "servings": 1,
+    "prep": 5,
+    "cook": 0,
+    "ingredients": [
+      {
+        "qty": "40ml",
+        "item": "dark rum"
+      },
+      {
+        "qty": "40ml",
+        "item": "orange juice"
+      },
+      {
+        "qty": "40ml",
+        "item": "pineapple juice"
+      },
+      {
+        "qty": "15ml",
+        "item": "lime juice"
+      },
+      {
+        "qty": "10ml",
+        "item": "grenadine"
+      },
+      {
+        "qty": "",
+        "item": "ice"
+      }
+    ],
+    "steps": [
+      "Shake rum and juices with ice.",
+      "Strain into glass over fresh ice.",
+      "Add grenadine and stir lightly."
+    ],
+    "notes": "Contains alcohol. For adults of legal drinking age. Drink responsibly. Measurements are per serving. Check allergies and ingredients.",
+    "tags": [
+      "cocktails",
+      "drink"
+    ]
+  }
+]
